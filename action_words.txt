@@ -30,6 +30,7 @@ Move
 Nod
 Open
 Play
+Please
 Push
 Read
 Ride
