@@ -1,5 +1,9 @@
 # ActionableTask
+
 Actionable item detection.
+
+Actionable item => A sentence which asks someone to do something.
+Example: "Please create an assignment and forward it by EOD"
 
 ## Solution
 
