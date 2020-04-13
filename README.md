@@ -1,6 +1,6 @@
 # Actionable-Item-Detection-NLP
 
-Actionable item detection.
+Actionable item detection from electronic mail texts.
 
 **Actionable item** => A sentence which asks someone to do something.
 
