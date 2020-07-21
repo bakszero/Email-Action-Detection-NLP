@@ -1,10 +1,7 @@
 # Actionable-Item-Detection-NLP
 
 Actionable item detection from electronic mail texts.
-
-**Actionable item** => A sentence which asks someone to do something.
-
-Example: "Please create an assignment and forward it by EOD"
+Example: "Please create an assignment and forward it by EOD" is an actionable sentence from among the sentences in the email.
 
 ## Solution
 
